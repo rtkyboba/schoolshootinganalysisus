@@ -4,14 +4,12 @@ The original datasets used for this analysis can be found from these links:
 [https://github.com/cnnlabs/cnn-school-shooting-data/](https://github.com/cnnlabs/cnn-school-shooting-data/)
 [https://www.kaggle.com/datasets/jameslko/gun-violence-data](https://www.kaggle.com/datasets/jameslko/gun-violence-data)
 
-The datasets which you MUST download can be found here:
-[https://www.kaggle.com/datasets/ryanrtky/gunvdataset](https://www.kaggle.com/datasets/ryanrtky/gunvdataset)
-
 
 ## Getting Started
 
+If you would like to run the file and try it for yourself:
 The main file of the project should be downloaded
-The datasets for this project must be downloaded here: 
+The datasets for this project must be downloaded here: [https://www.kaggle.com/datasets/ryanrtky/gunvdataset](https://www.kaggle.com/datasets/ryanrtky/gunvdataset)
 
 ### Prerequisites
 
